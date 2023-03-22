@@ -1,0 +1,19 @@
+G:\progect c#\Smart House\bin\Release\coldeni-sh-bd.mdf
+G:\progect c#\Smart House\bin\Release\coldeni-sh-bd_log.ldf
+G:\progect c#\Smart House\bin\Release\Smart House.exe.config
+G:\progect c#\Smart House\bin\Release\Smart House.exe
+G:\progect c#\Smart House\bin\Release\Smart House.pdb
+G:\progect c#\Smart House\obj\Release\Smart House.csproj.AssemblyReference.cache
+G:\progect c#\Smart House\obj\Release\Smart_House.AddModuleForm.resources
+G:\progect c#\Smart House\obj\Release\Smart_House.MainForm.resources
+G:\progect c#\Smart House\obj\Release\Smart_House.MStuffForm.resources
+G:\progect c#\Smart House\obj\Release\Smart_House.MSocketForm.resources
+G:\progect c#\Smart House\obj\Release\Smart_House.MLempForm.resources
+G:\progect c#\Smart House\obj\Release\Smart_House.Properties.Resources.resources
+G:\progect c#\Smart House\obj\Release\Smart_House.SettingsForm.resources
+G:\progect c#\Smart House\obj\Release\Smart House.csproj.GenerateResource.cache
+G:\progect c#\Smart House\obj\Release\Smart House.csproj.CoreCompileInputs.cache
+G:\progect c#\Smart House\obj\Release\Smart House.exe
+G:\progect c#\Smart House\obj\Release\Smart House.pdb
+G:\progect c#\Smart House\obj\Release\Smart_House.AboutForm.resources
+G:\progect c#\Smart House\obj\Release\Smart_House.MTempMForm.resources
